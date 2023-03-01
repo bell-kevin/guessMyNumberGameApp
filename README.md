@@ -24,6 +24,8 @@
 
 ![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/12.PNG)
 
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/13.PNG)
+
 https://github.com/academind/react-native-practical-guide-code/tree/04-deep-dive-real-app/code/21-finished
 
 Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
