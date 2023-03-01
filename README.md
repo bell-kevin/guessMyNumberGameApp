@@ -4,6 +4,8 @@
 
 ![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/2.PNG)
 
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/2a.PNG)
+
 ![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/3.PNG)
 
 ![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/4.PNG)
