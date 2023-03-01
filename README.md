@@ -1,5 +1,29 @@
 # Guess My Number Game
 
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/1.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/2.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/3.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/4.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/5.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/6.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/7.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/8.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/9.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/10.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/11.PNG)
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/12.PNG)
+
 Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
 
 https://code.visualstudio.com/download
