@@ -28,6 +28,10 @@
 
 ![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/13.PNG)
 
+I have this exact phone emulator as my real phone, the Pixel 4. Here's what the app. looks like on a real phone:
+
+![p](https://github.com/bell-kevin/guessMyNumberGame/blob/main/screenShots/Screenshot_20230301-202610.png)
+
 https://github.com/academind/react-native-practical-guide-code/tree/04-deep-dive-real-app/code/21-finished
 
 Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
