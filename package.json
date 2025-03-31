@@ -15,7 +15,7 @@
     "expo-linear-gradient": "^14.0.2",
     "expo-splash-screen": "^0.29.22",
     "expo-status-bar": "~2.0.1",
-    "react": "19.0.0",
+    "react": "19.1.0",
     "react-native": "0.78.1"
   },
   "devDependencies": {
